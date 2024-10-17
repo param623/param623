@@ -12,7 +12,7 @@
 
 <p align="center">
   📧 You can contact me at my email id: <a href="mailto:param.kamdar.03@gmail.com">param.kamdar.03@gmail.com</a><br>
-  📄 Please have a look at my <a href="https://drive.google.com/file/d/1e_6czpkuXggl_L8NEOCJbep5qAVjnzrY/view?usp=drive_link" target="_blank">resume</a>
+  📄 Please have a look at my <a href="https://drive.google.com/file/d/1F7Er1lkBwcx7uXcJA0kut4UGPOvSi3WW/view?usp=sharing" target="_blank">resume</a>
 </p>
 
 <h3 align="center">🛠️ Tech Skills</h3>
